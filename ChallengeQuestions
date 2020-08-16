@@ -1,0 +1,25 @@
+# The Python 3-Day Challenge 
+## 2 Questions Per day
+
+### Day 1:
+1.	Write a program which will find all such numbers which are divisible by 2 but are not a multiple of 3, between 500 and 600 (both included).The numbers obtained must be printed in a comma-separated sequence on a single line.
+2.	Find the number of elements in a list.  Eg., l = [1, 2, 3, 4] 
+    Num_elemnts(l) -> 4	
+    (You can't use len function)	
+
+### Day 2:
+1.	Write a program which can compute the factorial of a given numbers. The results should be printed in a comma-separated sequence on a single line. Suppose the following input is supplied to the program: 8 Then, the output should be:40320
+2.	Determine the prime factors of a given positive integer
+    Construct a flat list containing the prime factors in ascending order. Example:
+    prime_factors(315)--> [3,3,5,7]
+
+### Day 3:
+1.	Split a list into two parts; the length of the first part is given. Do not use any predefined predicates
+    Split_list([a,b,c,d,e,f,g,h,i,k],3)-->>[a,b,c],[d,e,f,g,h,i,k]
+    split_list([],5)-->[]
+
+2.	Write a Python program to find the highest n-values in a dictionary.
+    Example- n = 3
+    max_n({'a':500, 'b':5874, 'c': 560,'d':400, 'e':5000, 'f': 20}->[5874,5000,500]
+
+
