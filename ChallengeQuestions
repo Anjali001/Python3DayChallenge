@@ -9,7 +9,7 @@
 
 ### Day 2:
 3.	Write a program which can compute the factorial of a given numbers. The results should be printed in a comma-separated sequence on a single line. Suppose the following input is supplied to the program: 8 Then, the output should be:40320
-4.	Determine the prime factors of a given positive integer
+4.	Determine the prime factors of a given positive integer.
     Construct a flat list containing the prime factors in ascending order. Example:
     prime_factors(315)--> [3,3,5,7]
 
