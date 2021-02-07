@@ -1,2 +1,29 @@
 # Python3DayChallenge
 3 days of Python with 2 excercises to solve each day. 
+
+# The Python 3-Day Challenge 
+## 2 Questions Per day
+
+### Day 1:
+1.	Write a program which will find all such numbers which are divisible by 2 but are not a multiple of 3, between x and y (both included).The numbers obtained must be printed in a comma-separated sequence on a single line.
+2.	Find the number of elements in a list.  Eg., l = [1, 2, 3, 4] 
+    Number of elements in [1,2,3,4]: 4	
+    (You can't use len function) Try to take input from user.	
+
+### Day 2:
+3.	Write a program which can compute the factorial of a given numbers. The results should be printed in a comma-separated sequence on a single line. Suppose the following input is supplied to the program: 8 Then, the output should be:40320
+4.	Determine the prime factors of a given positive integer.
+    Construct a flat list containing the prime factors in ascending order. Example:
+    prime_factors(315)--> [3,3,5,7]
+
+### Day 3:
+5.	Split a list into two parts; the length of the first part is given. Do not use any predefined predicates
+    Split_list([a,b,c,d,e,f,g,h,i,k],3)-->>[a,b,c],[d,e,f,g,h,i,k]
+    split_list([],5)-->[]
+
+6.	Write a Python program to find the highest n-values in a dictionary.
+    Example- n = 3
+    max_n({'a':500, 'b':5874, 'c': 560,'d':400, 'e':5000, 'f': 20}->[5874,5000,500]
+    
+    ## Congratulations 🎉
+    You completed your first step to learn Python by doing these excercises. Now, move to 6-Day Challenge.
