@@ -23,4 +23,4 @@
     max_n({'a':500, 'b':5874, 'c': 560,'d':400, 'e':5000, 'f': 20}->[5874,5000,500]
     
     ## Congratulations 🎉
-    You completed your first step to learn Python by doing these excercises. Now, move to 6-Day Challenge.
+    You completed your first step to learn Python by doing these excercises. Now, move to 6-Day Challenge at https://github.com/Anjali001/Python6DayChallenge
